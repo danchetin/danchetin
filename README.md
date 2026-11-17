@@ -7,6 +7,7 @@ Full-stack developer based in Yerevan, Armenia. Open to remote and contract work
 - **Layr**: a 3D-print workshop (layr.am): Go backend, Next.js client, iOS admin app, printer agent in Python. Self-hosted on my own VPS. *(private repo)*
 - **Browser games** on Yandex Games (Phaser 3, Three.js).
 - Custom Laravel + Vue 3 web apps for private clients.
+- **[video-brief](https://github.com/danchetin/video-brief)** *(open source)*: a CLI that turns a video into a timestamped transcript and a structured brief (yt-dlp, whisper.cpp, optional LLM summary). Python, tested, CI.
 
 ### Stack
 Go · TypeScript · React/Next.js · PostgreSQL · Laravel/Vue 3 · Docker · GitHub Actions · Python
